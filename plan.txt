@@ -1,0 +1,3 @@
+* Embed luajit
+* Pass console input into luajit
+* Render text to window. 
